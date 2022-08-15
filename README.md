@@ -10,7 +10,7 @@ The game has a digital version  hosted here to [play](https://tabletopia.com/pla
 <table border="0">
  <tr>
     <td><a href="Board.jpeg" data-lightbox="board" data-title="The Board"><img src="Board.jpeg" style="width:100%"></a></td>
-    <td><a href="`winning.png`" data-lightbox="board" data-title="19 Souls on Board Logo"><img src="winning.png" style="width:100%"></a></td>
+    <td><a href="`winning.png`" data-lightbox="board" data-title="Winning Condition"><img src="winning.png" style="width:100%"></a></td>
  </tr>
  <tr>
     <td>The Board</td>
@@ -31,7 +31,7 @@ The game has a digital version  hosted here to [play](https://tabletopia.com/pla
 <table border="0">
  <tr>
     <td><a href="Board.jpeg" data-lightbox="board" data-title="The Board"><img src="Board.jpeg" style="width:100%"></a></td>
-    <td><a href="`winning.png`" data-lightbox="board" data-title="19 Souls on Board Logo"><img src="winning.png" style="width:100%"></a></td>
+    <td><a href="`3 by 4.png`" data-lightbox="board" data-title="Winning Condition"><img src="3 by 4.png" style="width:100%"></a></td>
  </tr>
  <tr>
     <td>The Board</td>
