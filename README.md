@@ -34,3 +34,4 @@ A player who completes a 3/4th circle removes the pieces from the board and earn
 The score is doubled if any of the 3/4th circle cards are on the yellow square.
 The player who earns 25 points first wins.
 Emptying the boards will give a penalty of 10 points.
+
