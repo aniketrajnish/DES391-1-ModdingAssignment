@@ -6,7 +6,7 @@ The game has a digital version  hosted here to [play](https://tabletopia.com/pla
  * The player can either turn a quadrant, add a quadrant, remove a quadrant by adding the same pattern.
  * The player who finishes his cards first gets eliminated.
  * Yellow sqaure leads to bonus. 
-<img src="">
+
 <table border="0">
  <tr>
     <td><a href="Board.jpeg" data-lightbox="board" data-title="The Board"><img src="Board.jpeg" style="width:100%"></a></td>
@@ -26,21 +26,24 @@ The game has a digital version  hosted here to [play](https://tabletopia.com/pla
    * A player who completes a 3/4th circle removes the pieces from the board and earns as many points as the constituent's pieces.
    * The score is doubled if any of the 3/4th circle cards are on the yellow square.
    * The player who earns 25 points first wins.
-   * Emptying the boards will give a penalty of 10 points. This puts a constrain that prevents people from removing the cards that others have put up.
-   <img src="">
-<table border="0">
+   * Emptying the boards will give a penalty of 10 points. This puts a constrain that prevents people from removing the cards that others have put up. <br>
+
+   <table border="0">
  <tr>
-    <td><a href="Board.jpeg" data-lightbox="board" data-title="The Board"><img src="Board.jpeg" style="width:100%"></a></td>
-    <td><a href="`3 by 4.png`" data-lightbox="board" data-title="Winning Condition"><img src="3 by 4.png" style="width:100%"></a></td>
+    <td><a href="dice.png" data-lightbox="new" data-title="Dice"><img src="dice.png" style="width:100%"></a></td>
+    <td><a href="`3 by 4 .png" data-lightbox="new" data-title="Winning Condition"><img src="3 by 4 .png" style="width:100%"></a></td>
  </tr>
  <tr>
-    <td>The Board</td>
-    <td>New Winning Condition</td>
+    <td>Dice</td>
+    <td>Winning Condition</td>
  </tr>
 </table>
 
 ## 3. New Rules (Proposed by us)
- The modded game can be played between a minimum of two players and a maximum of four players.
- Start the game by randomly shuffling the cards deck and then horizontally arranging them.
- The player will alternatively play their chance. They can rotate a card by 90 degrees in a clockwise direction or swap cards with different patterns only if those cards are present in the same horizontal or vertical line. Whoever can play a ¾ th circle with cards of the same pattern earns the point. The player having the maximum points at the end of the game will win.
+ * The biggest issue we found with the game was the fact that it had pacing issues in the begining as it took a lot of time to add enough pieces on the board for the game to be somewhat playable.
+ * So just like most of the games that follow the [match-3 mechanic](https://en.wikipedia.org/wiki/Category:Match_3_games) we decided upon giving the player a randomly shuffuled deck of pieces on the board to start with. All the decks are arranged in the same direction.
+ * Players get to either rotate a piece clockwise/anticlockwise by 90 degree or swap it with a card in the same horizontal/vertical grid.
+ * The winning condition is kept to be completing a 3/4th circle as suggested in the first iteration of rules by Prayas sir.
+ * The completed quarter circle stays on the board and the spaces that it takes up is yielded as unplayable. These pieces are turned upside down and they have a cross mark behind that indicates that those pieces are now unplayable.
+ * The game is timed and whoever scores the maximum points before the timer runs out wins the game. Apart from this, the game can even be concluded before the timer runs out if there is no playable space for a quarter circle to be formed left.
 
