@@ -25,3 +25,10 @@ The game has a digital version  hosted here to [play]().
  Start the game by randomly shuffling the cards deck and then horizontally arranging them.
  The player will alternatively play their chance. They can rotate a card by 90 degrees in a clockwise direction or swap cards with different patterns only if those cards are present in the same horizontal or vertical line. Whoever can play a ¾ th circle with cards of the same pattern earns the point. The player having the maximum points at the end of the game will win.
 
+Players can add, remove or rotate a card to complete a 3/4th circle.
+Players can either add, remove or rotate a card in one chance. A player can only turn up as many corners as the number shown on the dice.
+To remove a card, place the card with the same pattern, and remove both the cards. A player can only remove card three times in a game.
+A player who completes a 3/4th circle removes the pieces from the board and earns as many points as the constituent's pieces.
+The score is doubled if any of the 3/4th circle cards are on the yellow square.
+The player who earns 25 points first wins.
+Emptying the boards will give a penalty of 10 points.
