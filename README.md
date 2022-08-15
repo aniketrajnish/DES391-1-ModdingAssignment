@@ -28,13 +28,13 @@ The game has a digital version  hosted here to [play](https://tabletopia.com/pla
    * The player who earns 25 points first wins.
    * Emptying the boards will give a penalty of 10 points. This puts a constrain that prevents people from removing the cards that others have put up. <br>
 
-   <table border="0">
+<table border="0">
  <tr>
-    <td><a href="dice.png" data-lightbox="new" data-title="Dice"><img src="dice.png" style="width:100%"></a></td>
-    <td><a href="`3 by 4 .png" data-lightbox="new" data-title="Winning Condition"><img src="3 by 4 .png" style="width:100%"></a></td>
+    <td><a href="dice.jpeg" data-lightbox="new" data-title="4 Sided Dice"><img src="dice.jpeg" style="width:100%"></a></td>
+    <td><a href="3 by 4 .png" data-lightbox="new" data-title="Winning Condition"><img src="3 by 4 .png" style="width:100%"></a></td>
  </tr>
  <tr>
-    <td>Dice</td>
+    <td>4 Sided Dice</td>
     <td>Winning Condition</td>
  </tr>
 </table>
@@ -46,4 +46,17 @@ The game has a digital version  hosted here to [play](https://tabletopia.com/pla
  * The winning condition is kept to be completing a 3/4th circle as suggested in the first iteration of rules by Prayas sir.
  * The completed quarter circle stays on the board and the spaces that it takes up is yielded as unplayable. These pieces are turned upside down and they have a cross mark behind that indicates that those pieces are now unplayable.
  * The game is timed and whoever scores the maximum points before the timer runs out wins the game. Apart from this, the game can even be concluded before the timer runs out if there is no playable space for a quarter circle to be formed left.
+
+<a href="New Board.png" data-lightbox="newnew" data-title="Winning Condition"><img src="New Board.png" style="width:100%"></a>
+*New Board*
+ <table border="0">
+ <tr>
+    <td><a href="dice 3.jpeg" data-lightbox="newnew" data-title="New Rules"><img src="dice 3.jpeg" style="width:100%"></a></td>
+    <td><a href="New Board.png" data-lightbox="newnew" data-title="Winning Condition"><img src="New Board.png" style="width:100%"></a></td>
+ </tr>
+ <tr>
+    <td>New Rules</td>
+    <td>Winning Condition</td>
+ </tr>
+</table>
 
