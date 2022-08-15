@@ -20,9 +20,8 @@ The game has a digital version  hosted here to [play]().
 
 ## 2. First iteration (Proposed by Prayas Sir)
  * The first iteration to the change in the rules was proposed by Prayas sir, and he expected us to perform similar modifications to game and then playtest it.
- 
- 
- ### 3. New Rules (Proposed by us)
+
+## 3. New Rules (Proposed by us)
  The modded game can be played between a minimum of two players and a maximum of four players.
  Start the game by randomly shuffling the cards deck and then horizontally arranging them.
  The player will alternatively play their chance. They can rotate a card by 90 degrees in a clockwise direction or swap cards with different patterns only if those cards are present in the same horizontal or vertical line. Whoever can play a ¾ th circle with cards of the same pattern earns the point. The player having the maximum points at the end of the game will win.
@@ -34,4 +33,3 @@ A player who completes a 3/4th circle removes the pieces from the board and earn
 The score is doubled if any of the 3/4th circle cards are on the yellow square.
 The player who earns 25 points first wins.
 Emptying the boards will give a penalty of 10 points.
-
