@@ -51,12 +51,12 @@ The game has a digital version  hosted here to [play](https://tabletopia.com/pla
 *New Board*
  <table border="0">
  <tr>
-    <td><a href="dice 3.jpeg" data-lightbox="newnew" data-title="New Rules"><img src="dice 3.jpeg" style="width:100%"></a></td>
-    <td><a href="New Board.png" data-lightbox="newnew" data-title="Winning Condition"><img src="New Board.png" style="width:100%"></a></td>
+    <td><a href="rotation.jpg" data-lightbox="newnew" data-title="Rotation Rule"><img src="rotation.jpg" style="width:100%"></a></td>
+    <td><a href="grids.jpg" data-lightbox="newnew" data-title="Grid Rule"><img src="grids.jpg" style="width:100%"></a></td>
  </tr>
  <tr>
-    <td>New Rules</td>
-    <td>Winning Condition</td>
+    <td>Rotation Rule</td>
+    <td>Grid Rule</td>
  </tr>
 </table>
 
