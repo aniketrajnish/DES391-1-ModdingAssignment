@@ -10,7 +10,7 @@ The game has a digital version  hosted here to [play]().
 <table border="0">
  <tr>
     <td><a href="Board.jpeg" data-lightbox="board" data-title="The Board"><img src="Board.jpeg" style="width:100%"></a></td>
-    <td><a href="`../files/19SOB.png`" data-lightbox="board" data-title="19 Souls on Board Logo"><img src="../files/19SOB.png" style="width:100%"></a></td>
+    <td><a href="`winning.png`" data-lightbox="board" data-title="19 Souls on Board Logo"><img src="winning.png" style="width:100%"></a></td>
  </tr>
  <tr>
     <td>The Board</td>
@@ -20,7 +20,9 @@ The game has a digital version  hosted here to [play]().
 
 ## 2. First iteration (Proposed by Prayas Sir)
  * The first iteration to the change in the rules was proposed by Prayas sir, and he expected us to perform similar modifications to game and then playtest it.
-
+ 
+ 
+ ### 3. New Rules (Proposed by us)
  The modded game can be played between a minimum of two players and a maximum of four players.
  Start the game by randomly shuffling the cards deck and then horizontally arranging them.
  The player will alternatively play their chance. They can rotate a card by 90 degrees in a clockwise direction or swap cards with different patterns only if those cards are present in the same horizontal or vertical line. Whoever can play a ¾ th circle with cards of the same pattern earns the point. The player having the maximum points at the end of the game will win.
