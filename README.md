@@ -30,7 +30,7 @@ The game has a digital version  hosted here to [play](https://tabletopia.com/pla
 
 <table border="0">
  <tr>
-    <td><a href="dice.jpeg" data-lightbox="new" data-title="4 Sided Dice"><img src="dice.jpeg" style="width:100%"></a></td>
+    <td><a href="dice.jpg" data-lightbox="new" data-title="4 Sided Dice"><img src="dice.jpg" style="width:100%"></a></td>
     <td><a href="3 by 4 .png" data-lightbox="new" data-title="Winning Condition"><img src="3 by 4 .png" style="width:100%"></a></td>
  </tr>
  <tr>
