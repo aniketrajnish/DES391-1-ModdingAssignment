@@ -9,8 +9,8 @@ The game has a digital version  hosted here to [play](https://tabletopia.com/pla
 
 <table border="0">
  <tr>
-    <td><a href="Board.jpeg" data-lightbox="board" data-title="The Board"><img src="Board.jpeg" style="width:100%"></a></td>
-    <td><a href="`winning.png`" data-lightbox="board" data-title="Winning Condition"><img src="winning.png" style="width:100%"></a></td>
+    <td><a href="images/Board.jpeg" data-lightbox="board" data-title="The Board"><img src="images/Board.jpeg" style="width:100%"></a></td>
+    <td><a href="images/winning.png" data-lightbox="board" data-title="Winning Condition"><img src="images/winning.png" style="width:100%"></a></td>
  </tr>
  <tr>
     <td>The Board</td>
@@ -30,8 +30,8 @@ The game has a digital version  hosted here to [play](https://tabletopia.com/pla
 
 <table border="0">
  <tr>
-    <td><a href="dice.jpg" data-lightbox="new" data-title="4 Sided Dice"><img src="dice.jpg" style="width:100%"></a></td>
-    <td><a href="3 by 4 .png" data-lightbox="new" data-title="Winning Condition"><img src="3 by 4 .png" style="width:100%"></a></td>
+    <td><a href="images/dice.jpg" data-lightbox="new" data-title="4 Sided Dice"><img src="images/dice.jpg" style="width:100%"></a></td>
+    <td><a href="images/3 by 4 .png" data-lightbox="new" data-title="Winning Condition"><img src="images/3 by 4 .png" style="width:100%"></a></td>
  </tr>
  <tr>
     <td>4 Sided Dice</td>
@@ -47,12 +47,12 @@ The game has a digital version  hosted here to [play](https://tabletopia.com/pla
  * The completed quarter circle stays on the board and the spaces that it takes up is yielded as unplayable. These pieces are turned upside down and they have a cross mark behind that indicates that those pieces are now unplayable.
  * The game is timed and whoever scores the maximum points before the timer runs out wins the game. Apart from this, the game can even be concluded before the timer runs out if there is no playable space for a quarter circle to be formed left.
 
-<a href="New Board.png" data-lightbox="newnew" data-title="Winning Condition"><img src="New Board.png" style="width:100%"></a>
+<a href="images/ Board.png" data-lightbox="newnew" data-title="Winning Condition"><img src="images/New Board.png" style="width:100%"></a>
 *New Board*
  <table border="0">
  <tr>
-    <td><a href="rotation.jpg" data-lightbox="newnew" data-title="Rotation Rule"><img src="rotation.jpg" style="width:100%"></a></td>
-    <td><a href="grids.jpg" data-lightbox="newnew" data-title="Grid Rule"><img src="grids.jpg" style="width:100%"></a></td>
+    <td><a href="images/rotation.jpg" data-lightbox="newnew" data-title="Rotation Rule"><img src="images/rotation.jpg" style="width:100%"></a></td>
+    <td><a href="images/grids.jpg" data-lightbox="newnew" data-title="Grid Rule"><img src="images/grids.jpg" style="width:100%"></a></td>
  </tr>
  <tr>
     <td>Rotation Rule</td>
