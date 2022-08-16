@@ -1,6 +1,6 @@
 # DES 391-1 Modding Assignment
 
-The game has a digital version  hosted here to [play](https://tabletopia.com/players/id1929536/19qb8n/play).
+The game has a digital version  hosted here to [play](https://tabletopia.com/players/id1929536/19qb8n/play). Apart from that the assets used to make the game are also uploaded [here](files/game.pdf). 
 ## 1. The original Idea
  * The original game was based around the idea of arranging four quadrants (with different patterns) on the board in such a way that it forms a full circle. If all the four quadrants are made of same pattern, the player gets bonus points. 
  * The player can either turn a quadrant, add a quadrant, remove a quadrant by adding the same pattern.
@@ -9,8 +9,8 @@ The game has a digital version  hosted here to [play](https://tabletopia.com/pla
 
 <table border="0">
  <tr>
-    <td><a href="images/Board.jpeg" data-lightbox="board" data-title="The Board"><img src="images/Board.jpeg" style="width:100%"></a></td>
-    <td><a href="images/winning.png" data-lightbox="board" data-title="Winning Condition"><img src="images/winning.png" style="width:100%"></a></td>
+    <td><a href="files/Board.jpeg" data-lightbox="board" data-title="The Board"><img src="files/Board.jpeg" style="width:100%"></a></td>
+    <td><a href="files/winning.png" data-lightbox="board" data-title="Winning Condition"><img src="files/winning.png" style="width:100%"></a></td>
  </tr>
  <tr>
     <td>The Board</td>
@@ -30,8 +30,8 @@ The game has a digital version  hosted here to [play](https://tabletopia.com/pla
 
 <table border="0">
  <tr>
-    <td><a href="images/dice.jpg" data-lightbox="new" data-title="4 Sided Dice"><img src="images/dice.jpg" style="width:100%"></a></td>
-    <td><a href="images/3 by 4 .png" data-lightbox="new" data-title="Winning Condition"><img src="images/3 by 4 .png" style="width:100%"></a></td>
+    <td><a href="files/dice.jpg" data-lightbox="new" data-title="4 Sided Dice"><img src="files/dice.jpg" style="width:100%"></a></td>
+    <td><a href="files/3 by 4 .png" data-lightbox="new" data-title="Winning Condition"><img src="files/3 by 4 .png" style="width:100%"></a></td>
  </tr>
  <tr>
     <td>4 Sided Dice</td>
@@ -47,12 +47,12 @@ The game has a digital version  hosted here to [play](https://tabletopia.com/pla
  * The completed quarter circle stays on the board and the spaces that it takes up is yielded as unplayable. These pieces are turned upside down and they have a cross mark behind that indicates that those pieces are now unplayable.
  * The game is timed and whoever scores the maximum points before the timer runs out wins the game. Apart from this, the game can even be concluded before the timer runs out if there is no playable space for a quarter circle to be formed left.
 
-<a href="images/ Board.png" data-lightbox="newnew" data-title="Winning Condition"><img src="images/New Board.png" style="width:100%"></a>
+<a href="files/ Board.png" data-lightbox="newnew" data-title="Winning Condition"><img src="files/New Board.png" style="width:100%"></a>
 *New Board*
  <table border="0">
  <tr>
-    <td><a href="images/rotation.jpg" data-lightbox="newnew" data-title="Rotation Rule"><img src="images/rotation.jpg" style="width:100%"></a></td>
-    <td><a href="images/grids.jpg" data-lightbox="newnew" data-title="Grid Rule"><img src="images/grids.jpg" style="width:100%"></a></td>
+    <td><a href="files/rotation.jpg" data-lightbox="newnew" data-title="Rotation Rule"><img src="files/rotation.jpg" style="width:100%"></a></td>
+    <td><a href="files/grids.jpg" data-lightbox="newnew" data-title="Grid Rule"><img src="files/grids.jpg" style="width:100%"></a></td>
  </tr>
  <tr>
     <td>Rotation Rule</td>
